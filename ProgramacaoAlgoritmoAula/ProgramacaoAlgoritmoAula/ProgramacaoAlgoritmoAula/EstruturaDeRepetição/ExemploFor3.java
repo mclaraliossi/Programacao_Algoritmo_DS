@@ -1,4 +1,4 @@
-package ProgramacaoAlgoritmoAula.ProgramacaoAlgoritmoAula.EstruturaDeRepetição;
+package EstruturaDeRepetição;
 
 import java.util.Scanner;
 
